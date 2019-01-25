@@ -9,7 +9,7 @@ header {
 
 }
 .main-header{
-	background-image: img src="img/bay-beach-driftwood-1578751.jpg";
+	background-image: url('img/bay-beach-driftwood-1578751.jpg');
 }
 
 @media (min-width: 992px) {
