@@ -8,6 +8,9 @@ header {
   padding: 154px 0 100px;
 
 }
+.main-header{
+	background-image: img src="img/bay-beach-driftwood-1578751.jpg";
+}
 
 @media (min-width: 992px) {
   header {
